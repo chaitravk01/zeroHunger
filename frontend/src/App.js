@@ -1,4 +1,4 @@
-import{BrowserRouter as Router,Routes,Route,Link} from "react-router-dom";
+import{BrowserRouter as Router,Routes,Route} from "react-router-dom";
 
 /* Add ToastContainer Notification */
 // import { ToastContainer } from "react-toastify";
@@ -18,9 +18,9 @@ import Addemployee from "./pages/self_employeed/Addemployee";
 import AdminEmp from "./pages/self_employeed/AdminEmployee";
 import AdminExc from "./pages/self_employeed/AdminExchange";
 import AdminOrganization from "./pages/donation/AdminOrganization";
-import Donation from "./pages/donation/Donation";
-import Organization from "./pages/donation/Organization";
-import UpdateOrganization from "./pages/donation/UpdateOrganization";
+import Donation from "./pages/donation/donation";
+import Organization from "./pages/donation/organization";
+import UpdateOrganization from "./pages/donation/updateOrganization";
 import AdminRes from "./pages/restaurant/AdminRes";
 import AdminPro from "./pages/restaurant/AdminPro";
 import ExchangeItemAdd from "./pages/self_employeed/exchangeitemAdd";

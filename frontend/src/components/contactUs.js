@@ -15,9 +15,9 @@ const contactUs = () => {
                             </div>
 
                             <ul className="contact__content grid">
-                                <li className="contact__address">Telephone: <span className="contact__information">0112567890</span></li>
-                                <li className="contact__address">Email:  <span className="contact__information">sustainlife@gmail.com</span></li>
-                                <li className="contact__address">Location: <span className="contact__information">Kaduwela Road - Malabe</span></li>
+                                <li className="contact__address">Telephone: <span className="contact__information">6366628131</span></li>
+                                <li className="contact__address">Email:  <span className="contact__information">vkchaitra01@gmail.com</span></li>
+                                <li className="contact__address">Location: <span className="contact__information">Banashri nagar, Dharwad</span></li>
                             </ul>
 
                             <div className="contact__content">

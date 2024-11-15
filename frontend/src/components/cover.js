@@ -15,7 +15,7 @@ const cover = () => {
               <a href="/" className="svg__img svg__color home__img" >
                 <img className="Home-bg" src={bg} alt="bg"/> </a>
                 <defs>
-                    <h1 className='home__title'>Sustain Life</h1>
+                    <h1 className='home__title'>Zero Hunger</h1>
                 <h2 className='home_description'> This is a solution for Zero Hungry.</h2>
                 <div className="contact__content">
                                 <a href="/Donation" className="button">Donate Now</a>
